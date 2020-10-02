@@ -9,7 +9,7 @@
 <html></html>
 <style>
 body {
-  background-image: url('4.jpg');
+  background-image: url('4.gif');
   background-repeat: no-repeat;
   background-attachment: fixed;  
   background-size: cover;
